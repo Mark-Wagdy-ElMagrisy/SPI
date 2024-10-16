@@ -1,5 +1,5 @@
 ## repo structure: ##
-project documentation: description of project specifications
-images folder: screenshots of wavefrom and snippets from vivado
-design files
-testbench files
+project documentation: description of project specifications.<br />
+images folder: screenshots of waveform and snippets from vivado.<br />
+design files.<br />
+testbench files.<br />
