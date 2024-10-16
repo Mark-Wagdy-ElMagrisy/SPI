@@ -1,5 +1,7 @@
 *.docx
 work/
 *.cr.mti
-.wlf
+vsim.wlf
 transcript
+SPI.mpf
+SPI.mpf_new
